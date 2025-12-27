@@ -1,7 +1,11 @@
 # data_structure_homeworks
-Week 1 homework 
-Week 2 homework
-Week 3 homework
-Week 4 homework
-Week 5 homework
-Week 11 homework
+1 homework 
+2 homework
+3 homework
+4 homework
+5 homework
+6 homework
+7 homework
+8 homework
+9 homework
+10 homework
